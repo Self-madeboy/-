@@ -1,1 +1,40 @@
-<mxfile host="app.diagrams.net" modified="2022-06-24T06:05:36.830Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" version="20.0.2" etag="U1TMWut9hLsGlwLg1CPQ" type="github"><diagram id="7c-PCxtAFuzm0bJ8-GH_">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-06-24T06:09:00.462Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="R1ZvpdOf-C5w6DOKPV1T" version="20.0.2" type="github">
+  <diagram id="7c-PCxtAFuzm0bJ8-GH_" name="第 1 页">
+    <mxGraphModel dx="942" dy="582" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="_aTp2I0MA905ZhEZirWY-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="180" width="610" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_aTp2I0MA905ZhEZirWY-2" value="变长字段长度列表" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="30" y="180" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_aTp2I0MA905ZhEZirWY-3" value="null值列表" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="170" y="180" width="110" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_aTp2I0MA905ZhEZirWY-4" value="记录头信息" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="280" y="180" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_aTp2I0MA905ZhEZirWY-5" value="列1的值" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="360" y="180" width="70" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_aTp2I0MA905ZhEZirWY-6" value="列2的值" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="430" y="180" width="70" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_aTp2I0MA905ZhEZirWY-7" value="。。。。" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="500" y="180" width="70" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_aTp2I0MA905ZhEZirWY-8" value="列n的值" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="570" y="180" width="70" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_aTp2I0MA905ZhEZirWY-9" value="记录的额外信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="125" y="125" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_aTp2I0MA905ZhEZirWY-10" value="记录的真实数据" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="460" y="125" width="110" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
